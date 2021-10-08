@@ -1,0 +1,20 @@
+.bg{background: url('bg-2.jpg') repeat; width:100%; height:100%}
+.text{
+font-size: larger;
+color: rgb(6, 131, 248);
+background-color: rgb(238, 38, 24);
+background-size:5px ;
+
+text-align: center;
+
+}
+.row{
+    color: rgb(249, 255, 255);
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+.container-1{
+    background-color:rgb(212, 69, 69);
+    background-size: 100%;
+}
